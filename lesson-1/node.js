@@ -8,4 +8,4 @@
 //console.log(typeof num) => shunda uni type ni ko'rsatib beradi
 // null ning typeofi object ? 
 // console.log(num); 
-console.log(false + 1); // bunda javob "0" chiqadi
+// console.log(false + 1); // bunda javob "0" chiqadi
